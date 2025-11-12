@@ -1,4 +1,5 @@
 # React + Vite using bun
 
-- for starting this website use "bun dev" only if bun is already installed
+- if bun not installed : npm i -g bun        
+- if bun installed: bun dev or bun dev start
 
