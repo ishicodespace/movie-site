@@ -1,4 +1,6 @@
-# React + Vite
+# React + Vite using bun
+
+- for starting this website use "bun dev" only if bun is already installed
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
